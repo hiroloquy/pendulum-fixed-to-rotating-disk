@@ -42,7 +42,7 @@ ffmpeg -framerate 60 -i png/img_%04d.png -vcodec libx264 -pix_fmt yuv420p -vf "s
 ```
  
 # Author
-* Hiro Shigeyoshi
+* Hiro
 * Twitter: https://twitter.com/Sm_pgmf
  
 # License
