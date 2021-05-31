@@ -28,6 +28,7 @@ By using the outputted images, you can make a video or an animated GIF.
 ```
 git clone https://github.com/hoge/~
 cd pendulum-fixed-to-rotating-disk
+gnuplot
 load 'pendulum_fixed_to_rotating_disk.plt'
 ```
 Please check the value of `qtMode` before running.
