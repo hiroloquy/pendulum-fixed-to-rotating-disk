@@ -26,7 +26,7 @@ By using the outputted images, you can make a video or an animated GIF.
  
 # Usage
 ```
-git clone https://github.com/hoge/~
+git clone https://github.com/hiroloquy/mechanics/pendulum-fixed-to-rotating-disk.git
 cd pendulum-fixed-to-rotating-disk
 gnuplot
 load 'pendulum_fixed_to_rotating_disk.plt'
