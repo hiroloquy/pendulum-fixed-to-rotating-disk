@@ -10,6 +10,9 @@ This simulator is involved with the pendulum fixed to the edge of a rotating dis
   Note: To create a video from PNG images, you use ffmpeg.  
 ![video_in_pngcairo](demo_pngcairo.gif)
 
+# Model
+ ![model](model.png)
+
 # Features
 You enable to switch terminal type `qt` or `pngcairo` by using **`qtMode`**.
 - If you select `qt` terminal (`qtMode==1`), gnuplot opens qt window and you can run this simulator.
