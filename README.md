@@ -12,7 +12,7 @@ This simulator is involved with the pendulum fixed to the edge of a rotating dis
 
 # Modeling
  ![model](model.png)
-## Position of the point $\mathrm{P}$
+## Position of the point P
 <img src="https://latex.codecogs.com/png.latex?\dpi{200}&space;\boldsymbol{p}=\begin{bmatrix}&space;r\cos\omega&space;t&plus;l\sin\theta&space;\\&space;r\sin\omega&space;t-l\cos\theta&space;\end{matrix}" title="\boldsymbol{p}=\begin{bmatrix} r\cos\omega t+l\sin\theta \\ r\sin\omega t-l\cos\theta \end{matrix}" />
 
 ## Lgrange's equation
