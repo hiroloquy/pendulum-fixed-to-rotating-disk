@@ -59,10 +59,10 @@ do for[i=1:2]{
     eval rki
 }
 
-# numLoop the number of data points to be plotted
+# Fade the trajectory of the pendulum
 fadeTrajectory(i) = (fadeN=100, (i>fadeN ? i-fadeN : 0))
 
-# Time
+# Show the value of time t
 showTime(t) = sprintf("{/:Italic t} = %3.2f s", t)
 
 #=================== Setting ====================
