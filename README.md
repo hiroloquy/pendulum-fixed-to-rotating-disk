@@ -4,11 +4,11 @@ This simulator is involved with the pendulum fixed to the edge of a rotating dis
  
 # DEMO
 - teminal: **`qt`**  
- ![simulator_in_qt](https://user-images.githubusercontent.com/77706641/119249869-20f19c80-bbd7-11eb-8a81-40c5892a219d.gif)
+ ![simulator_in_qt](demo_qt.gif)
 
 - teminal: **`pngcairo`**  
   Note: To create a video from PNG images, you use ffmpeg.  
-![video_in_pngcairo](https://user-images.githubusercontent.com/77706641/119249872-24852380-bbd7-11eb-8ebe-07bcbd4bbc8e.gif)
+![video_in_pngcairo](demo_pngcairo.gif)
 
 # Features
 You enable to switch terminal type `qt` or `pngcairo` by using **`qtMode`**.
