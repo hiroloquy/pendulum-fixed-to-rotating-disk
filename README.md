@@ -40,7 +40,7 @@ By using the outputted images, you can make a video or an animated GIF.
 ### Position of the point P
 <img src="https://latex.codecogs.com/png.latex?\dpi{150}&space;\boldsymbol{p}=\begin{bmatrix}&space;r\cos\omega&space;t&plus;l\sin\theta&space;\\&space;r\sin\omega&space;t-l\cos\theta&space;\end{matrix}" title="\boldsymbol{p}=\begin{bmatrix} r\cos\omega t+l\sin\theta \\ r\sin\omega t-l\cos\theta \end{matrix}" />
 
-### Lgrange's equation
+### Lagrange's equation
 <img src="https://latex.codecogs.com/png.latex?\dpi{150}&space;\frac{d}{dt}\left(\frac{\partial&space;L}{\partial&space;\dot{\theta}}\right)-\frac{\partial&space;L}{\partial\theta}=0" title="\frac{d}{dt}\left(\frac{\partial L}{\partial \dot{\theta}}\right)-\frac{\partial L}{\partial\theta}=0" />
 
 ### Equation of motion
