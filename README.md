@@ -59,7 +59,7 @@ ffmpeg -framerate 60 -i png/img_%04d.png -vcodec libx264 -pix_fmt yuv420p -vf "s
 <!-- ## Reference -->
 
 ## Author
-Hiro (Twitter: [@Sm_pgmf](https://twitter.com/Sm_pgmf))
+Hiro (Twitter: [@hiroloquy](https://twitter.com/hiroloquy))
  
 ## License
 [Hiroloquy](https://hiroloquy.com/)
