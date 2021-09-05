@@ -1,4 +1,4 @@
-# pendulum-fixed-to-rotating-disk
+# Pendulum Fixed To Rotating Disk
 - **teminal: `qt`**
  ![simulator_in_qt](demo_qt.gif)
 <!-- <img src="demo_qt.gif" width="600" alt="demo_qt.gif" title="demo_qt.gif"> -->
@@ -62,5 +62,5 @@ ffmpeg -framerate 60 -i png/img_%04d.png -vcodec libx264 -pix_fmt yuv420p -vf "s
 Hiro (Twitter: [@hiroloquy](https://twitter.com/hiroloquy))
  
 ## License
-[Hiroloquy](https://hiroloquy.com/)
+"pendulum-fixed-to-rotating-disk" is under [MIT license](https://github.com/hiroloquy/pendulum-fixed-to-rotating-disk/blob/master/LICENSE).
  
