@@ -38,13 +38,23 @@ By using the outputted images, you can make a video or an animated GIF.
 <img src="model.png" width="350" alt="model.png" title="model.png">
 
 ### Position of the point P
-<img src="https://latex.codecogs.com/png.latex?\dpi{150}&space;\boldsymbol{p}=\begin{bmatrix}&space;r\cos\omega&space;t&plus;l\sin\theta&space;\\&space;r\sin\omega&space;t-l\cos\theta&space;\end{matrix}" title="\boldsymbol{p}=\begin{bmatrix} r\cos\omega t+l\sin\theta \\ r\sin\omega t-l\cos\theta \end{matrix}" />
+$$
+\boldsymbol{p}=
+\begin{bmatrix}
+  r\cos\omega t+l\sin\theta \\ 
+  r\sin\omega t-l\cos\theta
+\end{bmatrix}
+$$
 
 ### Lagrange's equation
-<img src="https://latex.codecogs.com/png.latex?\dpi{150}&space;\frac{d}{dt}\left(\frac{\partial&space;L}{\partial&space;\dot{\theta}}\right)-\frac{\partial&space;L}{\partial\theta}=0" title="\frac{d}{dt}\left(\frac{\partial L}{\partial \dot{\theta}}\right)-\frac{\partial L}{\partial\theta}=0" />
+$$
+\frac{d}{dt}\left(\frac{\partial L}{\partial \dot{\theta}}\right)-\frac{\partial L}{\partial\theta}=0
+$$
 
 ### Equation of motion
-<img src="https://latex.codecogs.com/png.latex?\dpi{150}&space;\ddot{\theta}-\frac{r}{l}\omega^2\cos\left(\theta-\omega&space;t\right)&plus;\frac{g}{l}\sin\theta=0" title="\ddot{\theta}-\frac{r}{l}\omega^2\cos\left(\theta-\omega t\right)+\frac{g}{l}\sin\theta=0" />
+$$
+\ddot{\theta}-\frac{r}{l}\omega^2\cos\left(\theta-\omega t\right)+\frac{g}{l}\sin\theta=0
+$$
 
 ## Note
 - When changing the initial value or parameter value, you don not forget to write a decimal point in the number (**float**). If the value does not have a decimal point, gnuplot regards the value as **int**, and the calculation accuracy will be poor!
